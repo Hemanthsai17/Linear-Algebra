@@ -1,2 +1,2 @@
-# MDSC-101
-Linear Algebra
+# Linear Algebra
+MDSC-101
